@@ -14,6 +14,6 @@ Testing gifs and emotes: 💕😔😁😭
 
 <br/>
 
-# Finall going to job interview:
+# Getting dressed up for a job interview:
 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/random/dog.gif?raw=true" />
