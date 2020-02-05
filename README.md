@@ -1,7 +1,13 @@
 # readme-gifs
 
-Testing emojis: 💕😔😁😭
+Testing gifs emotes: 💕😔😁😭
 
-## venues-production
+<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/random/busy.gif?raw=true" />
 
-<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/venues-production/puppy-race.gif?raw=true" width="1000" />
+<br/>
+
+<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/random/fml.gif?raw=true" />
+
+<br/>
+
+<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/random/dog.gif?raw=true" />
